@@ -155,7 +155,7 @@ body {
 }
 
 .plan-footer-banner {
-    background-image: url("../images/gradient2.png"), url("../images/watch.png");
+    background-image: url("./images/gradient2.png"), url("./images/watch.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 80%;
@@ -190,7 +190,7 @@ body {
 }
 
 
-.plan-footer-text>h1 {
+.plan-footer-text> h1 {
     color: #FFF;
     font-family: Work Sans;
     font-size: 40px;
